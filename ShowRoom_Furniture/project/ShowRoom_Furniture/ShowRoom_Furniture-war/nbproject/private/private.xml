@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/common/admin/navbar.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/WEB-INF/views/web/home.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/controller/admin/HomeAdminController.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/service/impl/OrderDetailsServiceImpl.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/service/IOrderService.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/common/web/sidebar.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/controller/web/HomeController.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/common/web/low_header.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/controller/web/UserController.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/controller/admin/UserAdminController.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/service/impl/OrderServiceImpl.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/common/web/navbar.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/WEB-INF/views/web/checkout_success.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/common/admin/sidebar.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/WEB-INF/views/admin/order/details.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/common/web/upper_header.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/controller/admin/OrderAdminController.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/controller/web/LoginController.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/WEB-INF/views/web/about_us.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/controller/admin/ProductAdminController.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/WEB-INF/views/admin/category/edit.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/WEB-INF/views/admin/order/list.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/service/IOrderDetailService.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/src/java/com/showroomfurniture/controller/web/CartController.java</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/decorators/login.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/common/web/footer.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/WEB-INF/views/admin/user/edit.jsp</file>
+            <file>file:/C:/Users/dinh9/OneDrive/Desktop/ShowRoom_Furniture/project/ShowRoom_Furniture/ShowRoom_Furniture-war/web/WEB-INF/views/web/list_order.jsp</file>
+        </group>
+    </open-files>
+</project-private>
